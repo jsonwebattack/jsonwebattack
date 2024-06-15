@@ -45,7 +45,7 @@ body {
     color: #fff;
     text-decoration: none;
     font-weight: 500;
-    margin-left: 35px;
+    margin-left: 335px;
     opacity: 0;
     animation: slideTop .5s ease forwards;
     animation-delay: calc(.2s * var(--i));
@@ -85,7 +85,6 @@ body {
 .home-content {
     max-width: 600px;
     padding: 50px;
-    /* margin-left: -30px; */
 }
 
 .home-content h1 {
